@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front End<br>- Desenvolvedor Web<br>- Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p align="left">- Front-End<br>- Desenvolvedor Web<br>- HTML | CSS | JAVASCRIPT | PYTHON | NODE.JS</p>
 
 ###
 

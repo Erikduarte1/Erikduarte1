@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br>- Desenvolvedor de Software - Front-End - Back-End | Web | HTML | CSS | JAVASCRIPT | PHP | C | PYTHON | JAVA |TYPESCRIPT | REACT.JS | BOOTSTRAP | EXPRESS.JS | APIs | SQL | PostgreSQL | GIT | GITHUB | NODE.JS | IA</p>
+<p align="left"><br>Desenvolvedor de Software - Front-End - Back-End | Web | HTML | CSS | JAVASCRIPT | PHP | C | PYTHON | JAVA |TYPESCRIPT | REACT.JS | BOOTSTRAP | EXPRESS.JS | APIs | SQL | PostgreSQL | GIT | GITHUB | NODE.JS | IA</p>
 
 ###
 
@@ -17,7 +17,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />]
+  
+            <i class="devicon-javascript-plain colored"></i>
+          
 </div>
 
 ###

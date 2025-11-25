@@ -113,8 +113,8 @@ Soft Skills: Liderança adaptativa, visão estratégica, comunicação assertiva
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 
-.
-.
+-_-
+-_-
 
 
 

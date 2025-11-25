@@ -113,6 +113,8 @@ Soft Skills: Liderança adaptativa, visão estratégica, comunicação assertiva
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 (br)
+(br)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
 

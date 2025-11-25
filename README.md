@@ -1,6 +1,28 @@
 # 👩🏻‍💻 Erik Duarte
 
-h1(Olá)
+Sou um Desenvolvedor Full-Stack apaixonado por transformar ideias complexas em soluções digitais completas e de alto desempenho. Com um domínio equilibrado do Front-End e do Back-End, atuo como um arquiteto de software, gerenciando o desenvolvimento de ponta a ponta.
+
+No Front-End, sou especialista em criar experiências de usuário dinâmicas e responsivas. Minhas ferramentas principais incluem HTML, CSS e JAVASCRIPT, alavancadas pela modernidade e escalabilidade do REACT.JS e pela segurança de tipos do TYPESCRIPT. Utilizo o BOOTSTRAP para garantir um design consistente em qualquer dispositivo.
+
+No Back-End, minha base é sólida e versátil. Trabalho com linguagens como PYTHON, JAVA, PHP e C, e sou proficiente na criação de APIs robustas e eficientes utilizando a combinação NODE.JS/EXPRESS.JS. Gerencio o armazenamento e a segurança dos dados com profundo conhecimento em SQL e PostgreSQL.
+
+Minha metodologia de trabalho é suportada por GIT e GITHUB, assegurando um controle de versão impecável e uma colaboração fluida em equipe. Busco constantemente aplicar as melhores práticas para construir sistemas web e aplicações que não apenas funcionem, mas que superem as expectativas de performance e usabilidade.
+
+Habilidades Interpessoais (Soft Skills):
+
+Minhas competências fundamentais abrangem liderança adaptativa, visão estratégica, e comunicação assertiva, essenciais para navegar em ambientes dinâmicos. Sou impulsionado pela proatividade, colaboração multifuncional e mentalidade de crescimento (growth mindset), garantindo a rápida absorção de novos conhecimentos. Tenho um forte senso de responsabilidade social, orientação a resultados e influência positiva, aplicando a negociação construtiva para alinhar expectativas e alcançar metas organizacionais.
+
+Expertise Técnica (Hard Skills):
+
+Sou um profissional de alto desempenho com especialização robusta em Inteligência Artificial e Engenharia de Prompt. Minha atuação foca na alavancagem de IA para transformar operações e produtos:
+
+Automação Inteligente: Aplico IA para aprimorar a automação de testes e processos.
+
+Otimização de Código: Direciono a IA na geração de código eficiente e na análise de padrões complexos.
+
+Estratégia e Arquitetura: Contribuo para a otimização de arquiteturas de sistemas e o aumento de produtividade global.
+
+Soluções Customizadas: Sou responsável pela criação de soluções inteligentes e personalizadas que geram valor direto ao negócio.
 
 **`Desenvolvedor FullStack`**
 ---

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full Stack<br>- Desenvolvedor de Software<br>| Javascript | TypeScript | React.js | Bootstrap | Express.js | APIs | SQL | PosgreSQL | Git | Github | Node.js</p>
+<p align="left">- Full Stack<br>- Desenvolvedor de Software - Front-End - Back-End | Web | HTML | CSS | JAVASCRIPT | PHP | C | PYTHON | JAVA |TYPESCRIPT | REACT.JS | BOOTSTRAP | EXPRESS.JS | APIs | SQL | PostgreSQL | GIT | GITHUB | NODE.JS | IA</p>
 
 ###
 
